@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/6dfa7f8a-71d3-4511-a356-5f214aec3b0b)
 
+Live Site - https://netflix-clone-9083b.web.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
